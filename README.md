@@ -1,7 +1,7 @@
 ### Hi there, I am Nicolás Alceo Davite 👋
 
-- 🌱 I’m currently learning Full Stack Web Development
-- 🔭 I’m currently working on an collaborative integrating project to create our first web page
+- 🌱 About to finish a Full Stack Web Development Course at Digital House
+- 🔭 I’m currently working on an Collaborative Integrating Project to create our first Web Page
 - 📫 const contact = {
        email: "nicolasalceodavite@gmail.com",
        linkedIn: "https://bit.ly/35B6Esp"
