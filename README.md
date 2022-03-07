@@ -1,7 +1,10 @@
 ### Hi there, I am Nicolás Alceo Davite 👋
 
 - 🌱 I’m currently learning Full Stack Web Development
-- 📫 How to reach me: e-mail: nicolasalceodavite@gmail.com // LinkedIn: https://bit.ly/35B6Esp
+- 📫 Contact = {
+-       email: "nicolasalceodavite@gmail.com",
+-       linkedIn: "https://bit.ly/35B6Esp"
+-     }
 - 🔭 I’m currently working on an collaborative integrating project to create our first web page
 
 <!--
