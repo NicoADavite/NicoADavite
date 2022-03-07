@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning Full Stack Web Development
 - 📫 Contact = {
--       email: "nicolasalceodavite@gmail.com",
--       linkedIn: "https://bit.ly/35B6Esp"
--     }
+       email: "nicolasalceodavite@gmail.com",
+       linkedIn: "https://bit.ly/35B6Esp"
+     }
 - 🔭 I’m currently working on an collaborative integrating project to create our first web page
 
 <!--
