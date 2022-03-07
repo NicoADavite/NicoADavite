@@ -7,8 +7,7 @@
        linkedIn: "https://bit.ly/35B6Esp"
      }
      
- 
- 
+ <br/>
  
  ### Hi there, I am Nicolás Alceo Davite 👋
 
