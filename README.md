@@ -1,6 +1,16 @@
-### Hi there, I am Nicolás Alceo Davite 👋
+### Buenas, acá Nicolás Alceo Davite 👋
 
-- 🌱 About to finish a Full Stack Web Development Course at Digital House
+- 🌱 Terminando mi primer Curso de Desarrollo Web Full Stack Web en Digital House Coding School
+- 🔭 Actualmente me encuentro trabajando en un Proyecto Integrador Colaborativo para crear nuestra primera Página Web
+- 📫 const contact = {
+       email: "nicolasalceodavite@gmail.com",
+       linkedIn: "https://bit.ly/35B6Esp"
+     }
+     
+ 
+ ### Hi there, I am Nicolás Alceo Davite 👋
+
+- 🌱 About to finish a Full Stack Web Development Course at Digital House Coding School
 - 🔭 I’m currently working on an Collaborative Integrating Project to create our first Web Page
 - 📫 const contact = {
        email: "nicolasalceodavite@gmail.com",
