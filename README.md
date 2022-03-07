@@ -2,8 +2,7 @@
 
 - 🌱 I’m currently learning Full Stack Web Development
 - 🔭 I’m currently working on an collaborative integrating project to create our first web page
-- 📫 // How to reach me...
--    const contact = {
+- 📫 const contact = {
        email: "nicolasalceodavite@gmail.com",
        linkedIn: "https://bit.ly/35B6Esp"
      }
