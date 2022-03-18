@@ -2,7 +2,7 @@
 
 - 🌱 Terminando mi primer Curso de Desarrollo Web Full Stack Web en Digital House Coding School
 - 🔭 Actualmente me encuentro trabajando en un Proyecto Integrador Colaborativo para crear nuestra primera Página Web
-- 📫 const contact = {
+- 📫 const contacto = {
        email: "nicolasalceodavite@gmail.com",
        linkedIn: "https://bit.ly/35B6Esp"
      }
