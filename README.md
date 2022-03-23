@@ -1,7 +1,10 @@
 ### Buenas, acá Nicolás Alceo Davite 👋
 
 - 🌱 Terminando mi primer Curso de Desarrollo Web Full Stack Web en Digital House Coding School
-- 🔭 Actualmente me encuentro trabajando en un Proyecto Integrador Colaborativo para crear nuestra primera Página Web
+- 🔭 const ultimosProyectos = {
+       "https://veoverde.herokuapp.com (en desarrollo) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize)",
+       "https://dashboard-veoverde.herokuapp.com (en desarrollo) (React)"
+     }
 - 📫 const contacto = {
        email: "nicolasalceodavite@gmail.com",
        linkedIn: "https://bit.ly/35B6Esp"
@@ -12,7 +15,10 @@
  ### Hi there, I am Nicolás Alceo Davite 👋
 
 - 🌱 About to finish a Full Stack Web Development Course at Digital House Coding School
-- 🔭 I’m currently working on an Collaborative Integrating Project to create our first Web Page
+- 🔭 const lastProjects = {
+-      "https://veoverde.herokuapp.com (developing) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize)",
+       "https://dashboard-veoverde.herokuapp.com (developing) (React)"
+-    }
 - 📫 const contact = {
        email: "nicolasalceodavite@gmail.com",
        linkedIn: "https://bit.ly/35B6Esp"
