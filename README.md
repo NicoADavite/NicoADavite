@@ -1,6 +1,6 @@
 ### Buenas, acá Nicolás Alceo Davite 👋
 
-- 🌱 Terminando mi primer Curso de Desarrollo Web Full Stack Web en Digital House Coding School
+- 🌱 Terminando mi primer Curso de Desarrollo Web Full Stack Web en Digital House
 
 
 - 🔭 Mis Ultimos Proyectos:
