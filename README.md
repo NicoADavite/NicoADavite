@@ -2,8 +2,8 @@
 
 - 🌱 Terminando mi primer Curso de Desarrollo Web Full Stack Web en Digital House Coding School
 - 🔭 const ultimosProyectos = {
-       "https://veoverde.herokuapp.com (en desarrollo) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize)",
-       "https://dashboard-veoverde.herokuapp.com (en desarrollo) (React)"
+       https://veoverde.herokuapp.com (en desarrollo) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize),
+       https://dashboard-veoverde.herokuapp.com (en desarrollo) (React)
      }
 - 📫 const contacto = {
        email: "nicolasalceodavite@gmail.com",
@@ -16,8 +16,8 @@
 
 - 🌱 About to finish a Full Stack Web Development Course at Digital House Coding School
 - 🔭 const lastProjects = {
--      "https://veoverde.herokuapp.com (developing) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize)",
-       "https://dashboard-veoverde.herokuapp.com (developing) (React)"
+       https://veoverde.herokuapp.com (developing) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize),
+       https://dashboard-veoverde.herokuapp.com (developing) (React)
 -    }
 - 📫 const contact = {
        email: "nicolasalceodavite@gmail.com",
