@@ -4,8 +4,8 @@
 
 
 - 🔭 Mis Ultimos Proyectos:
-       https://veoverde.herokuapp.com (en desarrollo) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize),
-       https://dashboard-veoverde.herokuapp.com (en desarrollo) (React)
+- https://veoverde.herokuapp.com (en desarrollo) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize),
+- https://dashboard-veoverde.herokuapp.com (en desarrollo) (React)
        
        
 - 📫 const contacto = {
@@ -21,8 +21,8 @@
 
 
 - 🔭 My Last Projects:
-       https://veoverde.herokuapp.com (developing) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize),
-       https://dashboard-veoverde.herokuapp.com (developing) (React)
+- https://veoverde.herokuapp.com (developing) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize),
+- https://dashboard-veoverde.herokuapp.com (developing) (React)
        
 
 - 📫 const contact = {
