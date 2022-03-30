@@ -1,6 +1,6 @@
 ### Buenas, acá Nicolás Alceo Davite 👋
 
-- 🌱 Terminando mi primer Curso de Desarrollo Web Full Stack Web en Digital House
+- 🌱 (Marzo/2022) Terminé mi primer Curso de Desarrollo Web Full Stack Web en Digital House
 
 
 - 🔭 Mis Ultimos Proyectos:
@@ -17,7 +17,7 @@
  
  ### Hi there, I am Nicolás Alceo Davite 👋
 
-- 🌱 About to finish a Full Stack Web Development Course at Digital House Coding School
+- 🌱 (MArch/2022) I finished a Full Stack Web Development Course at Digital House Coding School
 
 
 - 🔭 My Last Projects:
