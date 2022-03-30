@@ -6,7 +6,8 @@
 - 🔭 Mis Ultimos Proyectos:
 * https://veoverde.herokuapp.com (en desarrollo) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize),
 * https://dashboard-veoverde.herokuapp.com (en desarrollo) (React)
-       
+
+- En busqueda de mi primer empleo como programador     
        
 - 📫 const contacto = {
        email: "nicolasalceodavite@gmail.com",
@@ -24,6 +25,7 @@
 * https://veoverde.herokuapp.com (developing) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize),
 * https://dashboard-veoverde.herokuapp.com (developing) (React)
        
+- Currently looking for my first job opportunity as a programmer
 
 - 📫 const contact = {
        email: "nicolasalceodavite@gmail.com",
