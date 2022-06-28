@@ -18,7 +18,7 @@
  
  ### Hi there, I am Nicolás Alceo Davite 👋
 
-- 🌱 (MArch/2022) I finished a Full Stack Web Development Course at Digital House Coding School
+- 🌱 (March/2022) I finished a Full Stack Web Development Course at Digital House Coding School
 
 
 - 🔭 My Last Projects:
