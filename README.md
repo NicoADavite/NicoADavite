@@ -1,7 +1,6 @@
 ### Buenas, acá Nicolás Alceo Davite 👋
 
-- 🌱 (Marzo/2022) Terminé mi primer Curso de Desarrollo Web Full Stack Web en Digital House
-
+- ⚡ (Marzo/2022) Comencé a trabajar part-time como Docente Adjunto del Curso de Desarrollo Web Full Stack en Digital House.
 
 - 🔭 Mis Ultimos Proyectos:
 * https://veoverde.herokuapp.com (en desarrollo) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize),
@@ -18,8 +17,7 @@
  
  ### Hi there, I am Nicolás Alceo Davite 👋
 
-- 🌱 (March/2022) I finished a Full Stack Web Development Course at Digital House Coding School
-
+- ⚡ (March/2022) I started to work part-time as Assistant Professor of the Full Stack Web Development Course at Digital House.
 
 - 🔭 My Last Projects:
 * https://veoverde.herokuapp.com (developing) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize),
