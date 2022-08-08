@@ -8,9 +8,9 @@
 
 <!-- - En busqueda de mi primer empleo como programador      -->
        
-- 📫 const contacto = {\n
-       email: "nicolasalceodavite@gmail.com",\n
-       linkedIn: "https://bit.ly/35B6Esp"\n
+- 📫 const contacto = {  <br/>
+       email: "nicolasalceodavite@gmail.com", <br/>
+       linkedIn: "https://bit.ly/35B6Esp" <br/>
      }
      
  <br/>
@@ -25,9 +25,9 @@
        
 <!-- - Currently looking for my first job opportunity as a devoloper -->
 
-- 📫 const contact = {
-       email: "nicolasalceodavite@gmail.com",
-       linkedIn: "https://bit.ly/35B6Esp"
+- 📫 const contact = { <br/>
+       email: "nicolasalceodavite@gmail.com", <br/>
+       linkedIn: "https://bit.ly/35B6Esp" <br/>
      }
 
 
