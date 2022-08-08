@@ -9,8 +9,8 @@
 <!-- - En busqueda de mi primer empleo como programador      -->
        
 - 📫 const contacto = {  <br/>
-       email: "nicolasalceodavite@gmail.com", <br/>
-       linkedIn: "https://bit.ly/35B6Esp" <br/>
+       <span>  </span>email: "nicolasalceodavite@gmail.com", <br/>
+       <span>  </span>linkedIn: "https://bit.ly/35B6Esp" <br/>
      }
      
  <br/>
