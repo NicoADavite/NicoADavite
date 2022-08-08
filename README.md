@@ -23,7 +23,7 @@
 * https://veoverde.herokuapp.com (developing) (NodeJs, Express, EJS, CSS, JS, MySQL, Sequelize),
 * https://dashboard-veoverde.herokuapp.com (developing) (React)
        
-- Currently looking for my first job opportunity as a programmer
+- Currently looking for my first job opportunity as a devoloper
 
 - 📫 const contact = {
        email: "nicolasalceodavite@gmail.com",
