@@ -1,6 +1,6 @@
 ### Hi there, I am Nicolás Alceo Davite 👋
 
-- ⚡ (August/2022 - Current) I started working as a Full Stack Devloper at Quuack.
+- ⚡ (August/2022 - Current) I started working as a Full Stack Developer at Quuack.
 - ⚡ (April/2022 - December/2025) I worked part-time as Assistant Professor of the Full Stack Web Development Course at Digital House.
 
 - 📫 const contact = { <br/>
