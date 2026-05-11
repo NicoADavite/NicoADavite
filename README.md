@@ -1,21 +1,11 @@
-### Buenas, acá Nicolás Alceo Davite 👋
+### Hi there, I am Nicolás Alceo Davite 👋
 
-- ⚡ (Marzo/2022) Comencé a trabajar part-time como Docente Adjunto del Curso de Desarrollo Web Full Stack en Digital House.
-       
-- 📫 const contacto = {  <br/>
-              email: "nicolasalceodavite@gmail.com", <br/>
-              linkedIn: "https://bit.ly/35B6Esp" <br/>
-     }
-     
- <br/>
- 
- ### Hi there, I am Nicolás Alceo Davite 👋
-
-- ⚡ (March/2022) I started to work part-time as Assistant Professor of the Full Stack Web Development Course at Digital House.
+- ⚡ (August/2022 - Current) I started working as a Full Stack Devloper at Quuack.
+- ⚡ (April/2022 - December/2025) I worked part-time as Assistant Professor of the Full Stack Web Development Course at Digital House.
 
 - 📫 const contact = { <br/>
        email: "nicolasalceodavite@gmail.com", <br/>
-       linkedIn: "https://bit.ly/35B6Esp" <br/>
+       linkedIn: "https://www.linkedin.com/in/nicolas-alceo-davite/" <br/>
      }
 
 <!--
